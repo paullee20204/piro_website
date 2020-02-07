@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #Directories
-.idea
+.idea/
 
 # Distribution / packaging
 .Python
